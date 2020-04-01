@@ -8,7 +8,7 @@ use Symfony\Component\Routing\Annotation\Route\get;
 //use App\View\Body;
 
 
-//Class DefaultController is reponsabel for all php code
+//Class DefaultController is responsible for all php code
 
 class DefaultController{
 
